@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.968" height="27.968" viewBox="0 0 27.968 27.968">
+  <defs>
+    <filter id="Path_49875" x="0" y="0" width="27.968" height="27.968" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#d1fcff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_8478" data-name="Group 8478" transform="translate(2.066 1.676)">
+    <circle id="Ellipse_21" data-name="Ellipse 21" cx="12" cy="12" r="12" transform="translate(-0.247 0.143)" fill="#fff" opacity="0.27"/>
+    <g id="Icon_feather-arrow-up-right" data-name="Icon feather-arrow-up-right" transform="matrix(0.174, 0.985, -0.985, 0.174, 14.834, 8.143)">
+      <g transform="matrix(0.17, -0.98, 0.98, 0.17, -12.6, 14.94)" filter="url(#Path_49875)">
+        <path id="Path_49875-2" data-name="Path 49875" d="M0,7.19,7.19,0" transform="matrix(0.17, 0.98, -0.98, 0.17, 16.9, 9.82)" fill="none" stroke="#ff8b8b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <path id="Path_49876" data-name="Path 49876" d="M0,0H7.19V7.19" transform="translate(0 0)" fill="none" stroke="#ff8b8b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

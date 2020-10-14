@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.317" height="22.3" viewBox="0 0 16.317 22.3">
+  <g id="Group_9874" data-name="Group 9874" transform="translate(-1254.85 -920.85)">
+    <path id="Icon_awesome-mobile-alt" data-name="Icon awesome-mobile-alt" d="M12.764,0H2.252A2.126,2.126,0,0,0,0,1.969V19.031A2.126,2.126,0,0,0,2.252,21H12.764a2.126,2.126,0,0,0,2.252-1.969V1.969A2.126,2.126,0,0,0,12.764,0Z" transform="translate(1255.5 921.5)" fill="none" stroke="#5a5a5a" stroke-width="1.3"/>
+    <g id="Group_9873" data-name="Group 9873" transform="translate(1258 924)">
+      <g id="Rectangle_2732" data-name="Rectangle 2732" fill="none" stroke="#5a5a5a" stroke-width="1">
+        <rect width="10" height="9" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="8" rx="0.5" fill="none"/>
+      </g>
+      <g id="Ellipse_588" data-name="Ellipse 588" transform="translate(3 12.909)" fill="#fff" stroke="#5a5a5a" stroke-width="0.87">
+        <circle cx="2" cy="2" r="2" stroke="none"/>
+        <circle cx="2" cy="2" r="1.565" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

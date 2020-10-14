@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107" height="86.91" viewBox="0 0 107 86.91">
+  <g id="about_" data-name="about " transform="translate(49.097 45.364)">
+    <text id="TERMS_OF_USE" data-name="TERMS OF USE" transform="translate(-49.097 38.547)" fill="#585858" font-size="12" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.113em"><tspan x="0" y="0">TERMS OF USE</tspan></text>
+  </g>
+  <g id="Website" transform="translate(31.991)">
+    <g id="Icons" transform="translate(-344 -50)">
+      <g id="menu_documentation" transform="translate(344 50)">
+        <path id="Shape" d="M.009,5.6V47.2a.8.8,0,0,0,.8.8h30.4a.8.8,0,0,0,.8-.8V13.6c0-.018-.009-.033-.01-.05a.756.756,0,0,0-.041-.206c-.009-.026-.015-.05-.026-.075a.791.791,0,0,0-.16-.234l-8-8a.775.775,0,0,0-.235-.16.732.732,0,0,0-.073-.026.792.792,0,0,0-.207-.042c-.014,0-.029-.006-.046-.006H.809A.8.8,0,0,0,.009,5.6Zm29.269,7.2H24.009V7.531ZM1.609,6.4h20.8v7.2a.8.8,0,0,0,.8.8h7.2v32H1.609Z" fill="#8b8888"/>
+        <path id="Path" d="M33.609,41.6v1.6h2.4a.8.8,0,0,0,.8-.8V.8a.8.8,0,0,0-.8-.8H5.609a.8.8,0,0,0-.8.8V3.2h1.6V1.6h28.8v40Z" fill="#8b8888"/>
+        <path id="Path-2" data-name="Path" d="M6.409,16h19.2v1.6H6.409Z" fill="#8b8888"/>
+        <path id="Path-3" data-name="Path" d="M6.409,11.2h6.4v1.6h-6.4Z" fill="#8b8888"/>
+        <path id="Path-4" data-name="Path" d="M6.409,20.8h12.8v1.6H6.409Z" fill="#8b8888"/>
+        <path id="Path-5" data-name="Path" d="M20.809,20.8h4.8v1.6h-4.8Z" fill="#8b8888"/>
+        <path id="Path-6" data-name="Path" d="M6.409,25.6h19.2v1.6H6.409Z" fill="#8b8888"/>
+        <path id="Path-7" data-name="Path" d="M6.409,35.2h19.2v1.6H6.409Z" fill="#8b8888"/>
+        <path id="Path-8" data-name="Path" d="M13.609,30.4h12V32h-12Z" fill="#8b8888"/>
+        <path id="Path-9" data-name="Path" d="M6.409,30.4h5.6V32h-5.6Z" fill="#8b8888"/>
+        <path id="Path-10" data-name="Path" d="M6.409,40h3.2v1.6h-3.2Z" fill="#8b8888"/>
+        <path id="Path-11" data-name="Path" d="M11.209,40h14.4v1.6h-14.4Z" fill="#8b8888"/>
+      </g>
+    </g>
+  </g>
+</svg>
